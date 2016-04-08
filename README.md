@@ -16,6 +16,6 @@ In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to 
 
 With a blank HTML file open, type
 
-    htmlboiler
+    html5
 
 and press `TAB`.
